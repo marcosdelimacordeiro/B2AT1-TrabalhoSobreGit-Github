@@ -1,6 +1,6 @@
 # Manual de Sobrevivência Git/GitHub
 
-Este e um trabalho de um manual de sobrevivência para Git e GitHub! O git é um sistema de controle de versão distribuida bastente utilizado no desenvolvimento de software, que a possibilidade do desenvolvendo rastrear as mudancas, permite a colaboracao entres os desenvolvedores de maneira eficiente e segura, mantendo a intregridade
+Este e um trabalho de um manual de sobrevivência para Git e GitHub! O git é um sistema de controle de versão distribuida bastante utilizado no desenvolvimento de software, que a possibilidade do desenvolvendo rastrear as mudancas, permite a colaboracao entres os desenvolvedores de maneira eficiente e segura, mantendo a intregridade
 do historico da versões do projeto.
 
 ## Índice
